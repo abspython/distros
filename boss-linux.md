@@ -1,3 +1,15 @@
+---
+title: "Boss Linux"
+type: post
+date: 2018-12-04
+url: /bosslinux
+categories:
+  - debian
+tags:
+  - apt
+  - debian
+---
+
 # BOSS LINUX
 
 The BOSS GNU/Linux Version 6 is coupled with GNOME Desktop Environment 3.14 with wide Indian language support & packages, relevant for use in the Government domain. This aims more at enhancing the user interface with more glossy themes and Tab like look and feel on the desktop by coupling latest applications.

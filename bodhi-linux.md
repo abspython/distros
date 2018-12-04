@@ -1,3 +1,15 @@
+---
+title: "Bodhi Linux"
+type: post
+date: 2018-12-04
+url: /bodhilinux
+categories:
+  - debian
+tags:
+  - dpkg
+  - debian
+---
+
 # Bodhi Linux
 
 Bodhi Linux is a lightweight Linux distribution based on Ubuntu that uses the Moksha window manager.The philosophy for the distribution is to provide a minimal base system so that users can populate it with the software they want. Thus, by default it only includes software that is essential to most Linux users, including a file browser (PCManFM), a web browser (Midori) and a terminal emulator (Terminology). It does not include software or features that its developers deem unnecessary. To make populating systems with software easy, Bodhi Linux developers maintain an online database of lightweight software that can be installed in one click via apturl. 

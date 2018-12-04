@@ -1,3 +1,15 @@
+---
+title: "Debian"
+type: post
+date: 2018-12-04
+url: /debian
+categories:
+  - debian
+tags:
+  - apt
+  - debian
+---
+
 # Debian
 
 ![openlogo-100](https://www.debian.org/logos/openlogo.svg)
@@ -9,7 +21,7 @@ Despite the many varieties of distros are available in the Internet, Debian stil
 ## Virtual communities
 
 Debian provides packages made for virtual communities. The Facebook and Twitter application interfaces are available to programmers,the Pidgin messaging client used a custom plugin for Facebook until the networking site added support for XMPP.Debian 5.0 Lenny was the last release supporting Tencent QQ.Communication with Skype is possible using software in the contrib area.
- 
+
 ## Basic Info
 
 * Based on : `Linux kernel`
@@ -107,5 +119,7 @@ Debian had became my favorite distro after trying out elementary os. Made my tra
 Debian is one of the oldest and most famous Linux distributions of all time.But it has a strict policy on software packages. It only ships free software by default. It doesn’t even ship non-free firmware and drivers.But it has a good security system.
 ```
 -Reon James,2018/10/27
+
+```
 
 ```

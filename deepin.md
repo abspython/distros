@@ -1,3 +1,16 @@
+---
+title: "Deepin OS"
+type: post
+date: 2018-12-04
+url: /deepinos
+categories:
+  - debian
+tags:
+  - apt
+  - debian
+  - deepin
+---
+
 # DEEPIN OS
 
 Deepin, stylized as deepin was formerly known as Linux Deepin and Hiweed Linux.

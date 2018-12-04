@@ -1,3 +1,15 @@
+---
+title: "Arch Linux"
+type: post
+date: 2018-12-04
+url: /archlinux
+categories:
+  - arch
+tags:
+  - pacman
+  - arch
+---
+
 # Arch Linux
 
 Arch Linux is composed predominantly of free and open-source software,and supports community involvement.
