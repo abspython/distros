@@ -1,3 +1,17 @@
+---
+title: "Kali Linux"
+type: post
+date: 2018-12-04
+url: /kalilinux
+categories:
+  - debian
+image: 
+tags:
+  - dpkg
+  - hacking
+  - kali
+---
+
 # Kali Linux
 
 Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is maintained and funded by Offensive Security Ltd. It was developed by Mati Aharoni and Devon Kearns of Offensive Security through the rewrite of BackTrack, their previous information security testing Linux distribution based on Knoppix. 

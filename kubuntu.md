@@ -1,3 +1,17 @@
+---
+title: "Kubuntu"
+type: post
+date: 2018-12-04
+url: /kubuntu
+categories:
+  - ubuntu
+image: 
+tags:
+  - apt
+  - kubuntu
+  - ubuntu
+---
+
 # Kubuntu
 
 Kubuntu is an official flavour of the Ubuntu operating system which uses the KDE Plasma Desktop instead of the GNOME desktop environment. As part of the Ubuntu project, Kubuntu uses the same underlying systems. Every package in Kubuntu shares the same repositories as Ubuntu, and it is released regularly on the same schedule as Ubuntu.

@@ -1,3 +1,17 @@
+---
+title: "Knoppix"
+type: post
+date: 2018-12-04
+url: /knoppix
+categories:
+  - debian
+image: 
+tags:
+  - dpkg
+  - knoppix
+  - debian
+---
+
 # Knoppix
 
 KNOPPIX is an operating system based on Debian designed to be run directly from a CD / DVD (Live CD) or a USB flash drive (Live USB), one of the first of its kind for any operating system. Knoppix was developed by, and named after, Linux consultant Klaus Knopper. When starting a program, it is loaded from the removable medium and decompressed into a RAM drive. The decompression is transparent and on-the-fly.

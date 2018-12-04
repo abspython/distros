@@ -1,3 +1,17 @@
+---
+title: "Linux Mint"
+type: post
+date: 2018-12-04
+url: /linuxmint
+categories:
+  - debian
+image: 
+tags:
+  - apt
+  - mint
+  - debian
+---
+
 # Linux Mint
 
 Linux Mint is a community-driven Linux distribution based on Debian and Ubuntu that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use."

@@ -1,3 +1,17 @@
+---
+title: "Manjaro Linux"
+type: post
+date: 2018-12-04
+url: /manjarolinux
+categories:
+  - arch
+image: 
+tags:
+  - packman
+  - arch
+  - manjaro
+---
+
 # MANJARO LINUX
 
 Manjaro Linux, is an open source operating system for computers. It is a distribution of Linux based on the Arch Linux distribution. Manjaro Linux has a focus on user friendliness and accessibility and the system itself is designed to work fully "straight out of the box" with its variety of pre-installed software. It features a rolling release update model and uses pacman as its package manager.

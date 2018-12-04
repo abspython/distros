@@ -1,3 +1,17 @@
+---
+title: "Elementary Os"
+type: post
+date: 2018-12-04
+url: /elementaryos
+categories:
+  - ubuntu
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Elementary_logo.svg/200px-Elementary_logo.svg.png
+tags:
+  - dpkg
+  - elementary
+  - ubuntu
+---
+
 # Elementary OS
 
 ![300px-Elementary_logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Elementary_logo.svg/200px-Elementary_logo.svg.png)

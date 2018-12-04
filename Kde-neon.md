@@ -1,3 +1,17 @@
+---
+title: "KDE Neon"
+type: post
+date: 2018-12-04
+url: /kdeneon
+categories:
+  - ubuntu
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Neon-logo.svg/200px-Neon-logo.svg.png
+tags:
+  - apt
+  - kde
+  - ubuntu
+---
+
 # KDE Neon
 
 KDE neon is a set of software repositories for Ubuntu long-term support (LTS) releases with latest 64-bit version of KDE desktop and applications.It is also the name given to a Ubuntu LTS-based Linux distribution that utilizes said repositories.It aims to provide the users with rapidly updated Qt and KDE software, while updating the rest of the OS components from the Ubuntu repositories at the normal pace. It comes in user and developer editions.

@@ -1,3 +1,17 @@
+---
+title: "Fedora"
+type: post
+date: 2018-12-04
+url: /fedora
+categories:
+  - fedora
+image:  https://upload.wikimedia.org/wikipedia/commons/2/2c/RH-Fedora_logo-nonfree.png
+tags:
+  - dnf
+  - fedora
+  - redhat
+---
+
 # Fedora
 
 Fedora is a Linux distribution developed by the community-supported Fedora Project and sponsored by Red Hat. Fedora contains software distributed under various free and open-source licenses and aims to be on the leading edge of such technologies. Fedora is the upstream source of the commercial Red Hat Enterprise Linux distribution.
