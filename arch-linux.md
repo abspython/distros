@@ -3,6 +3,7 @@ title: "Arch Linux"
 type: post
 date: 2018-12-04
 url: /archlinux
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Arch_Linux_logo.svg/200px-Arch_Linux_logo.svg.png
 categories:
   - arch
 tags:
@@ -11,6 +12,8 @@ tags:
 ---
 
 # Arch Linux
+
+![200px-Arch_Linux_logo-300](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Arch_Linux_logo.svg/200px-Arch_Linux_logo.svg.png)
 
 Arch Linux is composed predominantly of free and open-source software,and supports community involvement.
 
